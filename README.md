@@ -6,7 +6,7 @@
 **Electronica-2000** is a browser-based virtual drum machine inspired by retro hardware samplers. It features low-latency audio playback and responsive visual feedback, allowing users to create beats using their keyboard or mouse.
 
 ## Live Demo
-*to be updated*
+[Play the Drum Machine](https://vladsonx.github.io/Drum-Pad/)
 
 ## Tech Stack
 * **HTML5** – Semantic structure.
